@@ -1,1 +1,2 @@
-# SampleTest
+# Shopping-Cart
+A simple single page browser application where from the user can add/remove items into their basket from a pool of priced items (dummy, hard-coded within the App). Basket should display total price and allow for quantity changes. When total exceeds €100 then apply 10% discount and notify user. A "buy" button should log (in console) an XML with the minimum amount of data required to describe the state of the basket (assume that this is to be sent to the back-end managing the items). Basket should survive browser refreshes.  Technical details:  Application and unit tests should be written in JavaScript using custom code or your favorite framework.
